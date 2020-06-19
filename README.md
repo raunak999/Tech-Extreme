@@ -1,9 +1,10 @@
 # Tech-Extreme
 Groci-The Agriculture Hub
 
-Problem Statement: Agriculture ,the biggest economic sector in India is suffering from increase in suicide rate of farmers.This is due to excessive loans from the farmer side which in turn arises from low crop rice.Infrastructure of resource management is not really farmer-friendly.
+Problem Statement: 
+Agriculture ,the biggest economic sector in India is suffering from increase in suicide rate of farmers.This is due to excessive loans from the farmer side which in turn arises from low crop rice.Infrastructure of resource management is not really farmer-friendly.
 
-Solution Statement\;
+Solution Statement:
 1. What we aim to do is prepare a cheap delivery system and online market for the farmers to have the maximized profit .
 2. How this works is,the farmer wishing to sell any item creates an account.Then he can proceed to announce what he wants to sell.Also, on receiving order he will arrange for the delivery of the order.
 3. Same goes for the customer,who creates an account,then finds and orders items he wishes to buy.
